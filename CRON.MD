@@ -75,3 +75,7 @@ Resultado:
 ![](https://raw.githubusercontent.com/GalderGG/fotosDocumentacion2/master/5.png)
 
 **Crear un cron para que haga una copia (en un fichero comprimido) de la carpeta /home/ubuntu en la carpeta /copias cada 15 minutos los martes.**
+
+En este caso no voy a crear un script añadiendo la siguiente linea en el archivo de crontab es suficiente:
+
+![](https://raw.githubusercontent.com/GalderGG/fotosDocumentacion2/master/7.png)
