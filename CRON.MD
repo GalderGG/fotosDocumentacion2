@@ -66,6 +66,10 @@ Por ultimo añado esta ultima linea en el archivo de crontab
 
 ![](https://raw.githubusercontent.com/GalderGG/fotosDocumentacion2/master/4.png)
 
+Resultado:
+
+![](https://raw.githubusercontent.com/GalderGG/fotosDocumentacion2/master/6.png)
+
 *Para entrar en archivo de crontab
 
 ![](https://raw.githubusercontent.com/GalderGG/fotosDocumentacion2/master/5.png)
